@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Cloud Engineer | DevOps | Automation | Cloud Architect | Design Scalable Performant Systems | Backend Engineering",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "I am a passionate Cloud Services Engineer specializing in cloud engineering, DevOps, and architecture. I've pioneered multi-cloud/on-prem support, built modules for technologies like Dataproc and Tigergraph, and optimized systems such as BigQuery and Firestore. Beyond coding, I've designed, implemented advanced security measures, and utilized tools like Chef, Python, and Terraform for efficient DevOps. I blend cloud expertise with a passion for automation and resilient infrastructure.As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
   avatarUrl: "https://avatars.githubusercontent.com/u/67697850?v=4",
   personalWebsiteUrl: "https://ahmedzbyr.gitlab.io/",
   contact: {
@@ -61,218 +61,212 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Parabol",
-      link: "https://parabol.co",
-      badges: ["Remote"],
-      title: "Senior Full Stack Developer",
-      logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
+      company: "Equifax",
+      link: "https://www.equifax.com/",
+      badges: ["Hybrid"],
+      title: "Big Data Lead Engineer (Platform) → Cloud Services Engineer",
+      start: "2018",
+      end: "Present",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "Experienced Cloud Services Engineer with a proven track record in leading and supporting diverse environments both in the cloud and on-premises. Recognized for my commitment to reliability, automation, and designing resilient systems. I have played a pivotal role as a core committer and architect for various modules including Dataproc, BigQuery, BigTable, Tigergraph, Datastore, and Firestore. My contributions include creating robust deployment modules, optimizing existing systems, and ensuring security through IAM setups and encryption.",
     },
     {
-      company: "Clevertech",
-      link: "https://clevertech.biz",
-      badges: ["Remote"],
-      title: "Lead Android Developer → Full Stack Developer",
-      logo: ClevertechLogo,
-      start: "2015",
-      end: "2021",
+      company: "CGI",
+      link: "https://www.cgi.com/nl/nl",
+      title: "IT Consultant",
+      start: "2018",
+      end: "2018",
       description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
+        "DevOps Engineer specializing in automation and configuration management. Proficient in building and maintaining enterprise solutions in both on-premise and cloud Linux environments. Experienced in developing and implementing CI/CD processes, utilizing tools such as GIT, Jenkins, Ansible, Python, and Chef. Skilled in containerization with Docker and Kubernetes, both in Google Cloud Platform (GCP) and on-premises environments.",
     },
     {
-      company: "Jojo Mobile",
-      link: "https://bsgroup.eu/",
+      company: "Happiest Minds Private Limited",
+      link: "https://www.happiestminds.com/",
       badges: [],
-      title: "Android Developer → Lead Android Developer",
-      logo: JojoMobileLogo,
-      start: "2012",
-      end: "2015",
+      title: "Senior Technical Specialist → Architect",
+      start: "2014",
+      end: "2018",
       description:
-        "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
+        "Seasoned Architect with expertise in designing and optimizing big data deployments. Proficient in enhancing security through network firewall, Kerberos, TLS, and data-at-rest encryption. Adept at automation using Python, Ruby, Chef, and Ansible. Skilled in various data processing technologies, including Kafka, Storm, HBase, and NginX.",
     },
     {
-      company: "Nokia Siemens Networks",
-      link: "https://www.nokia.com",
+      company: "Saggezza, an Apexon company",
+      link: "https://www.apexon.com/experience/",
       badges: [],
-      title: "C/C++ Developer",
-      logo: NSNLogo,
-      start: "2010",
-      end: "2012",
-      description: "Creating and testing software for LTE base stations",
+      title: "Sofware Engineer → Sr Software Engineer → Project Lead → Solutions Lead",
+      start: "2006",
+      end: "2014",
+      description: "Solutions Lead with a strong background in developing network analytics applications and data collection processes. Proficient in programming languages such as Python, Shell scripts, Java, C, and C++. Experienced in Linux porting on ARM-based boards (embedded systems).",
     },
   ],
   skills: [
-    "JavaScript",
-    "TypeScript",
-    "React/Next.js/Remix",
-    "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
+    "Python", "Chef", "Ansible", "GCP", "AWS", "Nagios", "Zabbix",
+    "C", 
+    "C++",
+    "Linux",
+    "Hadoop",
+    "Ruby"
   ],
   projects: [
-    {
-      title: "Consultly",
-      techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
-      ],
-      description: "A platform to build and grow your online business",
-      logo: ConsultlyLogo,
-      link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
-      },
-    },
-    {
-      title: "Monito",
-      techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
-      description:
-        "Browser extension that records everything happening in a web application",
-      logo: MonitoLogo,
-      link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
-      },
-    },
-    {
-      title: "Jarocki.me",
-      techStack: ["Side Project", "Next.js", "MDX"],
-      description:
-        "My personal website and blog. Built with Next.js and Notion API",
-      logo: JarockiMeLogo,
-      link: {
-        label: "github.com",
-        href: "https://jarocki.me/",
-      },
-    },
-    {
-      title: "Minimal",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
-      description:
-        "Minimalist calendars, habit trackers and planners generator",
-      logo: Minimal,
-      link: {
-        label: "useminimal.com",
-        href: "https://useminimal.com/",
-      },
-    },
-    {
-      title: "Barepapers",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
-      description:
-        "Generates beautiful wallpapers using random shapes and gradients",
-      logo: BarepapersLogo,
-      link: {
-        label: "barepapers.com",
-        href: "https://barepapers.com/",
-      },
-    },
-    {
-      title: "Year progress",
-      techStack: ["Side Project", "TypeScript", "Next.js"],
-      description: "Tracks current year progress and displays a countdown",
-      logo: YearProgressLogo,
-      link: {
-        label: "getyearprogress.com",
-        href: "https://getyearprogress.com/",
-      },
-    },
-    {
-      title: "Parabol",
-      techStack: [
-        "Full Stack Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "The Agile meeting co-pilot that delivers better meetings with less effort",
-      logo: ParabolLogo,
-      link: {
-        label: "github.com",
-        href: "https://parabol.co/",
-      },
-    },
-    {
-      title: "Evercast",
-      techStack: [
-        "Lead Frontend Developer",
+    // {
+    //   title: "Consultly",
+    //   techStack: [
+    //     "Side Project",
+    //     "TypeScript",
+    //     "Next.js",
+    //     "Vite",
+    //     "GraphQL",
+    //     "WebRTC",
+    //   ],
+    //   description: "A platform to build and grow your online business",
+    //   logo: ConsultlyLogo,
+    //   link: {
+    //     label: "consultly.com",
+    //     href: "https://consultly.com/",
+    //   },
+    // },
+    // {
+    //   title: "Monito",
+    //   techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
+    //   description:
+    //     "Browser extension that records everything happening in a web application",
+    //   logo: MonitoLogo,
+    //   link: {
+    //     label: "monito.dev",
+    //     href: "https://monito.dev/",
+    //   },
+    // },
+    // {
+    //   title: "Jarocki.me",
+    //   techStack: ["Side Project", "Next.js", "MDX"],
+    //   description:
+    //     "My personal website and blog. Built with Next.js and Notion API",
+    //   logo: JarockiMeLogo,
+    //   link: {
+    //     label: "github.com",
+    //     href: "https://jarocki.me/",
+    //   },
+    // },
+    // {
+    //   title: "Minimal",
+    //   techStack: ["Side Project", "Next.js", "Puppeteer"],
+    //   description:
+    //     "Minimalist calendars, habit trackers and planners generator",
+    //   logo: Minimal,
+    //   link: {
+    //     label: "useminimal.com",
+    //     href: "https://useminimal.com/",
+    //   },
+    // },
+    // {
+    //   title: "Barepapers",
+    //   techStack: ["Side Project", "Next.js", "Puppeteer"],
+    //   description:
+    //     "Generates beautiful wallpapers using random shapes and gradients",
+    //   logo: BarepapersLogo,
+    //   link: {
+    //     label: "barepapers.com",
+    //     href: "https://barepapers.com/",
+    //   },
+    // },
+    // {
+    //   title: "Year progress",
+    //   techStack: ["Side Project", "TypeScript", "Next.js"],
+    //   description: "Tracks current year progress and displays a countdown",
+    //   logo: YearProgressLogo,
+    //   link: {
+    //     label: "getyearprogress.com",
+    //     href: "https://getyearprogress.com/",
+    //   },
+    // },
+    // {
+    //   title: "Parabol",
+    //   techStack: [
+    //     "Full Stack Developer",
+    //     "TypeScript",
+    //     "React",
+    //     "Node.js",
+    //     "GraphQL",
+    //   ],
+    //   description:
+    //     "The Agile meeting co-pilot that delivers better meetings with less effort",
+    //   logo: ParabolLogo,
+    //   link: {
+    //     label: "github.com",
+    //     href: "https://parabol.co/",
+    //   },
+    // },
+    // {
+    //   title: "Evercast",
+    //   techStack: [
+    //     "Lead Frontend Developer",
 
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "Creative collaboration platform that combines video conferencing and HD media streaming",
-      logo: EvercastLogo,
-      link: {
-        label: "evercast.us",
-        href: "https://www.evercast.us/",
-      },
-    },
-    {
-      title: "Mobile Vikings",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application for leading virtual mobile operator in Poland",
-      logo: MobileVikingsLogo,
-      link: {
-        label: "mobilevikings.pl",
-        href: "https://mobilevikings.pl/",
-      },
-    },
-    {
-      title: "Howdy",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Howdy is a place for you to join communities you care about",
-      logo: Howdy,
-      link: {
-        label: "play.google.com",
-        href: "https://howdy.co/",
-      },
-    },
-    {
-      title: "Tastycloud",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application for managing and displaying restaurant menus in kiosk mode",
-      logo: TastyCloudLogo,
-      link: {
-        label: "tastycloud.fr",
-        href: "https://www.tastycloud.fr/",
-      },
-    },
-    {
-      title: "Ambit",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application that helps with sharing your contact details",
-      logo: AmbitLogo,
-    },
-    {
-      title: "Bim",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application that helps with booking a table in a restaurants",
-      logo: BimLogo,
-    },
-    {
-      title: "Canal Digital GO",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Video streaming mobile application for Canal Digital subscribers",
-      logo: CDGOLogo,
-    },
+    //     "TypeScript",
+    //     "React",
+    //     "Node.js",
+    //     "GraphQL",
+    //   ],
+    //   description:
+    //     "Creative collaboration platform that combines video conferencing and HD media streaming",
+    //   logo: EvercastLogo,
+    //   link: {
+    //     label: "evercast.us",
+    //     href: "https://www.evercast.us/",
+    //   },
+    // },
+    // {
+    //   title: "Mobile Vikings",
+    //   techStack: ["Lead Android Developer", "Android", "Kotlin"],
+    //   description:
+    //     "Android application for leading virtual mobile operator in Poland",
+    //   logo: MobileVikingsLogo,
+    //   link: {
+    //     label: "mobilevikings.pl",
+    //     href: "https://mobilevikings.pl/",
+    //   },
+    // },
+    // {
+    //   title: "Howdy",
+    //   techStack: ["Lead Android Developer", "Android", "Kotlin"],
+    //   description:
+    //     "Howdy is a place for you to join communities you care about",
+    //   logo: Howdy,
+    //   link: {
+    //     label: "play.google.com",
+    //     href: "https://howdy.co/",
+    //   },
+    // },
+    // {
+    //   title: "Tastycloud",
+    //   techStack: ["Lead Android Developer", "Android", "Kotlin"],
+    //   description:
+    //     "Android application for managing and displaying restaurant menus in kiosk mode",
+    //   logo: TastyCloudLogo,
+    //   link: {
+    //     label: "tastycloud.fr",
+    //     href: "https://www.tastycloud.fr/",
+    //   },
+    // },
+    // {
+    //   title: "Ambit",
+    //   techStack: ["Lead Android Developer", "Android", "Kotlin"],
+    //   description:
+    //     "Android application that helps with sharing your contact details",
+    //   logo: AmbitLogo,
+    // },
+    // {
+    //   title: "Bim",
+    //   techStack: ["Lead Android Developer", "Android", "Kotlin"],
+    //   description:
+    //     "Android application that helps with booking a table in a restaurants",
+    //   logo: BimLogo,
+    // },
+    // {
+    //   title: "Canal Digital GO",
+    //   techStack: ["Lead Android Developer", "Android", "Kotlin"],
+    //   description:
+    //     "Video streaming mobile application for Canal Digital subscribers",
+    //   logo: CDGOLogo,
+    // },
   ],
 } as const;
