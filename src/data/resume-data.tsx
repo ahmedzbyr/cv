@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Leeds, UK",
   locationLink: "https://www.google.com/maps/place/Leeds",
   about:
-    "Cloud Engineer | DevOps | Automation | Cloud Architect | Design Scalable Performant Systems | Backend Engineering",
+    "Cloud Engineer | Cloud Architect | Backend Engineering",
   summary:
     "I am a passionate Cloud Services Engineer specializing in cloud engineering, DevOps, and architecture. I've pioneered multi-cloud/on-prem support, built modules for technologies like Dataproc and Tigergraph, and optimized systems such as BigQuery and Firestore. Beyond coding, I've designed, implemented advanced security measures, and utilized tools like Chef, Python, and Terraform for efficient DevOps. I blend cloud expertise with a passion for automation and resilient infrastructure.As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
   avatarUrl: "https://avatars.githubusercontent.com/u/67697850?v=4",
@@ -65,7 +65,7 @@ export const RESUME_DATA = {
       link: "https://www.equifax.com/",
       title: "Big Data Lead Engineer (Platform) → Cloud Services Engineer",
       start: "2018",
-      end: "Present",
+      end: "2025",
       description:
         "Experienced Cloud Services Engineer with a proven track record in leading and supporting diverse environments both in the cloud and on-premises. Recognized for my commitment to reliability, automation, and designing resilient systems. I have played a pivotal role as a core committer and architect for various modules including Dataproc, BigQuery, BigTable, Tigergraph, Datastore, and Firestore. My contributions include creating robust deployment modules, optimizing existing systems, and ensuring security through IAM setups and encryption.",
     },
