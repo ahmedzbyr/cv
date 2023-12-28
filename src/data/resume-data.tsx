@@ -63,7 +63,7 @@ export const RESUME_DATA = {
     {
       company: "Equifax",
       link: "https://www.equifax.com/",
-      badges: ["Current"],
+      badges: [],
       title: "Big Data Lead Engineer (Platform) → Cloud Services Engineer",
       start: "2018",
       end: "Present",
@@ -73,6 +73,7 @@ export const RESUME_DATA = {
     {
       company: "CGI",
       link: "https://www.cgi.com/nl/nl",
+      badges: [],
       title: "IT Consultant",
       start: "2018",
       end: "2018",
@@ -82,6 +83,7 @@ export const RESUME_DATA = {
     {
       company: "Happiest Minds Private Limited",
       link: "https://www.happiestminds.com/",
+      badges: [],
       title: "Senior Technical Specialist → Architect",
       start: "2014",
       end: "2018",
@@ -91,6 +93,7 @@ export const RESUME_DATA = {
     {
       company: "Saggezza, an Apexon company",
       link: "https://www.apexon.com/experience/",
+      badges: [],
       title: "Sofware Engineer → Sr Software Engineer → Project Lead → Solutions Lead",
       start: "2006",
       end: "2014",
