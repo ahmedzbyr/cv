@@ -82,7 +82,6 @@ export const RESUME_DATA = {
     {
       company: "Happiest Minds Private Limited",
       link: "https://www.happiestminds.com/",
-      badges: [],
       title: "Senior Technical Specialist → Architect",
       start: "2014",
       end: "2018",
@@ -92,7 +91,6 @@ export const RESUME_DATA = {
     {
       company: "Saggezza, an Apexon company",
       link: "https://www.apexon.com/experience/",
-      badges: [],
       title: "Sofware Engineer → Sr Software Engineer → Project Lead → Solutions Lead",
       start: "2006",
       end: "2014",
