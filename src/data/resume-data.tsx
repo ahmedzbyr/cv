@@ -63,10 +63,10 @@ export const RESUME_DATA = {
     {
       company: "Equifax",
       link: "https://www.equifax.com/",
-      badges: ["Hybrid"],
+      badges: ["Current"],
       title: "Big Data Lead Engineer (Platform) → Cloud Services Engineer",
       start: "2018",
-      end: "2025",
+      end: "Present",
       description:
         "Experienced Cloud Services Engineer with a proven track record in leading and supporting diverse environments both in the cloud and on-premises. Recognized for my commitment to reliability, automation, and designing resilient systems. I have played a pivotal role as a core committer and architect for various modules including Dataproc, BigQuery, BigTable, Tigergraph, Datastore, and Firestore. My contributions include creating robust deployment modules, optimizing existing systems, and ensuring security through IAM setups and encryption.",
     },
