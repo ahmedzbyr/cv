@@ -63,6 +63,7 @@ export const RESUME_DATA = {
     {
       company: "Equifax",
       link: "https://www.equifax.com/",
+      badges: ["Hybrid"],
       title: "Big Data Lead Engineer (Platform) → Cloud Services Engineer",
       start: "2018",
       end: "2025",
